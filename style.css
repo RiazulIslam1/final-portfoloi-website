@@ -80,7 +80,7 @@ h2{
     background-size: 250px;
     background-position: left;
 }
-.dev-item{
+.develop-item{
     width: 70%;
     padding-right: 50px;
     text-align: left;
@@ -109,8 +109,8 @@ input[type=submit] {
     border-radius: 5px;
     cursor: pointer;
   }
-  textarea{
-      height: 200px;
+  textarea{             
+      height: 200px; 
   }
 .box-container {
     width: 60%;
